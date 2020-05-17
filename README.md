@@ -1,6 +1,10 @@
 Hello world! Welcome to my awesome project
 
+Data set of marks secured by students in various subjects. Downloaded from kaggle
+https://www.kaggle.com/spscientist/students-performance-in-exams
 
+Data is generated randomly from
+http://roycekimmons.com/tools/generated_data/exams
 
 To Do:
 
