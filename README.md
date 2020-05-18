@@ -10,4 +10,5 @@ To Do:
 
 * Do README
 * Fix up correlation map (palette and data)
-* Do more correlations between predictors and responses!
+* Do more correlations between predictors and responses
+* Learn more about factorial ANOVA to find meaningful predictors (this is because all categorical)
