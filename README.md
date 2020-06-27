@@ -1,14 +1,11 @@
-Hello world! Welcome to my awesome project
+# MSA - AI & Advanced Analytics Submission
 
-Data set of marks secured by students in various subjects. Downloaded from kaggle
-https://www.kaggle.com/spscientist/students-performance-in-exams
+This is my submission for the first MSA module, AI & Advanced Analytics.
 
-Data is generated randomly from
-http://roycekimmons.com/tools/generated_data/exams
+# Installation
 
-To Do:
-
-* Do README
-* Fix up correlation map (palette and data)
-* Do more correlations between predictors and responses
-* Learn more about factorial ANOVA to find meaningful predictors (this is because all categorical)
+In a fresh conda virtual environment:
+```bash
+conda env create -f environment.yml
+conda activate analytics
+```
